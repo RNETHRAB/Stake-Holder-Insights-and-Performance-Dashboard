@@ -6,50 +6,26 @@ Requirements:
 
 A).	Charts and Visualizations:
 
-1.	Compare the total value created by different insurers.
+1.	Compare the total value created by different insurers : Displayed the total value created for a comparative analysis among insurers.
 
-2.	Display trends in premiums collected over time.
+2.	Display trends in premiums collected over time : Visualized premium trends using line or area charts to analyse changes over time.
 
-3.	Showcase the distribution of shareholding patterns among stakeholders.
+3.	Showcase the distribution of shareholding patterns among stakeholders : Visualized shareholding patterns using pie or bar charts.
 
-4.	Analyse the relationship between cost ratio and profitability.
+4.	Analyse the relationship between cost ratio and profitability : Developed Bar Charts to reveal insights between cost ratio and profitability metrics.
 
-5.	Visualize profitability for different cities and policy tenure durations.
+5.	Visualize profitability for different cities and policy tenure durations : Created Heatmaps to categorize profitability by city and policy tenure.
 
-6.	Represent the distribution of assets under management across stakeholders.
+6.	Represent the distribution of assets under management across stakeholders : Used Bar chart visualizations to display how assets are distributed among stakeholders.
 
 B)	Key Performance Indicators (KPIs):
 
-a.	Display the total premium collected
+1.Total Premium Collected : Displayed as a dynamic KPI card.
 
-b.	Show the average age of stakeholders
+2.Average Stakeholder Age : Summarized demographic data using an average age indicator.
 
-c.	Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity,' 
+3.Value Created in Equity Management : Highlighted value creation under equity management.
 
-d.	Identify the highest value created by a single insurer.
+4.Top Performing Insurer : Showcased the insurer with the highest value creation.
 
-Insights Gained:
 
-A) Charts:
-
-1.Displayed the total value created for a comparative analysis among insurers.
-
-2.Visualized premium trends using line or area charts to analyse changes over time.
-
-3.Visualized shareholding patterns using pie or bar charts.
-
-4.Developed Bar Charts to reveal insights between cost ratio and profitability metrics.
-
-5.Created Heatmaps to categorize profitability by city and policy tenure.
-
-6.Used Bar chart visualizations to display how assets are distributed among stakeholders.
-
-B) KPI's:
-
-a) KPI card summarizing the total amount of premiums collected.
-
-b) KPI card presenting the average stakeholder age.
-
-c) KPI card focusing on value creation under equity management.
-
-d) KPI card showcasing the top-performing insurer by value created.
